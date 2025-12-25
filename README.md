@@ -2,14 +2,17 @@
 
 ###
 
-<h4 align="left">Muhammad Akna Mafaid, Y/N, at korehitone domain, ready to collaborate.</h4>
+<h3 align="left">Muhammad Akna Mafaid, Y/N, at korehitone domain, ready to collaborate.</h3>
 
 ###
+
+<h2 align="left">🐱‍👤About Me:</h2>
 
 <p align="left">📡 I'm currently a <b>3rd</b> semester student at <b>CEP-CCIT FTUI</b><br>🔭 I'm currently learning <b>Fullstack Web Development</b><br>🎯 Love Clean Architecture<br>🥽 I love exploring code with native way to understand logic and it's flow</p>
 
 ###
-
+---
+<h2 align="left">🔬Languages & Techs:</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-akna-mafaid-ilmi-anshori/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -19,6 +22,7 @@
   </a>
 </div>
 
+---
 ###
 
 <div align="center">
