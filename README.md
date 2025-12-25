@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">Muhammad Akna Mafaid, Y/N, at korehitone domain, ready to collaborate.</h5>
+<h4 align="left">Muhammad Akna Mafaid, Y/N, at korehitone domain, ready to collaborate.</h4>
 
 ###
 
-<p align="left">📡 I'm currently a __3rd__ semester student at __CEP-CCIT FTUI__<br>🔭 I'm currently learning __Fullstack Web Development__<br>🎯 Love Clean Architecture<br>🥽 I love exploring code with native way to understand logic and it's flow</p>
+<p align="left">📡 I'm currently a <b>3rd</b> semester student at <b>CEP-CCIT FTUI</b><br>🔭 I'm currently learning <b>Fullstack Web Development</b><br>🎯 Love Clean Architecture<br>🥽 I love exploring code with native way to understand logic and it's flow</p>
 
 ###
 
