@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">Muhammad Akna Mafaid, Y/N, at korehitone domain, ready to collaborate.</h3>
+<h3 align="left"> Hi! I'm Muhammad Akna Mafaid</h3>
 
 ###
 
